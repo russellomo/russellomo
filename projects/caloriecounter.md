@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/counterimage.png
 title: Calorie Counter Web Application
 permalink: projects/caloriecounter
 date: 2015
