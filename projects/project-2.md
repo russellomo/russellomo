@@ -4,7 +4,7 @@ type: project
 image: images/vacay-square.png
 title: Ionic Application
 permalink: projects/vacay
-date: Spring 2016
+date: 2016
 labels:
   - Javascript
   - Ionic
