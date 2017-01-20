@@ -12,7 +12,7 @@ labels:
 summary: A project using Ionic Creator application builder to make a mobile friendly application for the web.
 ---
 
-<img class="ui medium right floated rounded image" src=".../images/Screen Shot 2017-01-20 at 10.04.31 AM.png">
+<img class="ui medium right floated rounded image" src=".../images/ionicsh.png">
 
 The goal of this project was to implement an application using a popular app builder, Ionic Creator. 
 
