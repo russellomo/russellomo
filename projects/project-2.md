@@ -9,7 +9,6 @@ labels:
   - Javascript
   - Ionic
   - Angular
-  
 summary: A project using Ionic Creator application builder to make a mobile friendly application for the web.
 ---
 
