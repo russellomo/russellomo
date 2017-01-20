@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Ionic Application
 permalink: projects/vacay
-date: 2015
+date: Spring 2016
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Ionic
+  - Angular
+  
+summary: A project using Ionic Creator application builder to make a mobile friendly application for the web.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
