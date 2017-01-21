@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/abimage.png
-title: Cotton
+image: images/abimage.PNG
+title: Address Book Application
 permalink: projects/addressbook
 date: 2015
 labels:
