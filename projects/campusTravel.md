@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ionic.png
 title: Ionic Application
-permalink: projects/vacay
+permalink: projects/campustravel
 date: 2016
 labels:
   - Javascript
