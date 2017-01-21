@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/abimage.png
 title: Cotton
-permalink: projects/
+permalink: projects/addressbook
 date: 2015
 labels:
   - C
