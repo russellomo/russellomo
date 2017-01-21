@@ -16,6 +16,8 @@ This address book application was one of the major projects for ICS 212, a progr
 
 The main functions of the application include the features to add new records which hold important pieces information for a person, search for records, delete and modify records. On termination of the program, a save file will be created to hold the records that have been added during the program's run time. Upon starting the program, it will check for the file. If there is one, then it will read that file and load all the records kept on it; otherwise, the program will start with no records. During runtime of the program, the records are held in a linked list.
 
+<img  src="../images/abexample.PNG">
+
 Beyond the aforementioned features, there is also a debug mode which can activated upon executing the program. Being in this mode prints important information pertaining to the run time of the program, such as the parameters that have been passed into the functions that make up the different features of the program. 
 
 As this program was developed for use in a unix shell, it was also developed within the shell. The program was compiled and linked using shell commands, and a .make file was created to make compilation of the code less redundant. 
