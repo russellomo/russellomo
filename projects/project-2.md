@@ -22,4 +22,4 @@ From this project I had learned two things, the capabilities of an app builder a
 
 
  
-You can find the code for this project here: <a href="https://github.com/russellomo/CampusTravel"><i class="large github icon"></i>theVacay/vacay</a>
+You can find the code for this project here: <a href="https://github.com/russellomo/CampusTravel"><i class="large github icon"></i>CampusTravel</a>
