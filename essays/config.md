@@ -23,9 +23,9 @@ Git was developed in 2005 by famous programmer Linus Torvalds (known for his wor
 
 Git would then be the basis for a web based version control system, GitHub. Github allows developers to store their files on a cloud, and, much like its progenitor, allows multiple users to work on the same project; only this time, these users can be anywhere in the world so long as they are connected to the internet. Even if you aren't working on a team, Github offers a convenient and organized place to store precious source files in the case that you are working across different machines. 
 
-## What Came First? The Git or the Hub? ##
+## What Made GitHub So Popular? The Git or the Hub? ##
 
-While Git is definitly very popular among software developers and programmers, those two demographics only make up a fraction of the userbase of GitHub. And that has to do simply with the fact that GitHub is accesable with anyone with a web browser. Git also requires some learning, whereas GitHub can let users set up repositories with an easy to use desktop application. 
+While Git is definitly very popular among software developers and programmers, those two demographics only make up a fraction of the userbase of GitHub. And that has to do simply with the fact that GitHub is accesable with anyone with a web browser. Git also requires some learning, whereas GitHub can let users set up repositories from the get-go with an easy to use desktop application. 
 
 
 ## I've Been Gitting it Wrong all this Time ##
