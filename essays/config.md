@@ -9,7 +9,7 @@ labels:
   - Work Ethic
 ---
 
-<img  src="../images/githubImage.jpg">
+<img class="ui large left floated rounded image" src="../images/githubImage.jpg">
 
 ## What is Configuration Management? ##
 
