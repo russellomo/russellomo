@@ -37,3 +37,7 @@ Users create profiles which show their major and courses taken. These profiles w
 - Rating system for books and other users 
 - Ability to add friends
 - Messaging service
+
+
+
+By Russell Omo and Raven Robles
