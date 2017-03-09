@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Meteor Gotchas"
+title: Meteor Gotchas
 date: 2017-03-09
 labels:
   - Software Engineering
@@ -15,4 +15,5 @@ some hours of sleep this past week. The bridge itself you might ask? The Meteor 
 itself is actually pretty straightforward, to actually make use of the framework is to bring all of your skills
 together to actually lay something on it. Thus, there were bound to be complications. 
 
-	One such complication was being sure to import 
+	One such complication that I had ran into in recreating the digits application (a tutorial application in
+which )
