@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: With Great Power Comes Great Responsibiilty
-date: 2017-05-2
+date: 2017-05-02
 labels:
   - Software Engineering 
   - Ethics
