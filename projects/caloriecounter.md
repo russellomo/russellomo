@@ -15,6 +15,7 @@ labels:
 summary: A web application that I had created for my final project for ICS321.
 ---
 
+<img class="ui large right floated rounded image" src="../images/ccounter.png">
 
 For the final project for ICS 321 at UHM, I had created a web application that utilizes a simple database to log a person's meals as well as calculating calorie consumption based on those meals. This application was stored and hosted on a C Panel server supplied by the professor at the time. 
 
