@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/abimage.PNG
+image: images/chasehawaii.png
 title: ChaseHawaii, A Meteor Web Application
 permalink: projects/chasehawaii
 date: 2017
@@ -12,6 +12,8 @@ labels:
   - HTML
 summary: The final project that I developed with a team of two others. 
 ---
+
+<img  src="../images/landing.png">
 
 ## What is ChaseHawaii? ##
 
@@ -25,11 +27,19 @@ In ICS314, we were exposed to a project management strategy called Issue Driven 
 
 For this project, we as a team divided up the project in vertical slices of the development stack; instead of people being assigned to one facet of the project such as UI or databasing, we each take a slice of the entire pie so that we are able to experience all aspects of the development process. 
 
-I took on the development of the profiles in the project. Profiles were an important part of this application, as we needed them to allow users to have a personalized experience where they can create their own small persona on our application and interact with others. I worked on both the back end and the front end in implementing the profiles, creating pages where users can create their profile, edit it, and view their own profile which includes all of their inputted information. Chaselyn Pugh also added in this effort as she developed the adventure items aspect of the application, which was the implementation of the abilities to create and edit adventure items. She was able to add to the profile page the user's bucket list of adventure items as well as the items that they liked. 
+I took on the development of the profiles in the project. Profiles were an important part of this application, as we needed them to allow users to have a personalized experience where they can create their own small persona on our application and interact with others. I worked on both the back end and the front end in implementing the profiles, creating pages where users can create their profile, edit it, and view their own profile which includes all of their inputted information. Chaselyn Pugh also added in this effort as she developed the adventure items aspect of the application, which was the implementation of the abilities to create and edit adventure items. She was able to add to the profile page the user's bucket list of adventure items as well as the items that they liked. Isaac Demello was also able to create a public version of profile pages that can be viewed by other users as well as making the overall project more visually appealing along with being in charge of the comments implementation. 
+
+<img  src="../images/createprofile.png">
+
+<img  src="../images/profilepage.png">
 
 Implementing the profiles also required the use of the UH CAS (Central Authentication Service) to provide the authentication of UH users. 
 
-Near the end of the project, after the profiles were implemented, I also developed an administration page to allow for the moderation of the items created by the UH community. Admins in a nutshell, approve the displaying of adventure items and can delete them when a user requests it. 
+<img  src="../images/login.png">
+
+Near the end of the project, after the profiles were implemented, I also developed an administration page to allow for the moderation of the adventure items created by the UH community. Admins in a nutshell, approve the displaying of adventure items and can delete them when a user requests it. 
+
+<img  src="../images/admin.png">
 
 ## My Experience Gained ##
 
@@ -40,6 +50,7 @@ On the technical level, through the use of various technologies, I was able to e
 Take a look at my team member's portfolio sites:
 
 <a href="https://cepugh.github.io">Chaselyn Pugh</a>
+
 <a href="https://idemello.github.io">Isaac Demello</a>
 
 Learn more about the project here:<a href="https://chasehawaii.github.io/"><i class="large github icon "></i>ChaseHawaii</a>
